@@ -1,0 +1,15 @@
+/********************************************************************/
+/*                                                                  */
+/* File      : print.css                                            */
+/*                                                                  */
+/* Author    : Barry Kimelman                                       */
+/*                                                                  */
+/* Created   : July 1, 2012                                         */
+/*                                                                  */
+/* Purpose   : CSS code for styling printer layout.                 */
+/*                                                                  */
+/********************************************************************/
+
+<style type="text/css" media="print,screen" >
+#table, #content {width: 100%; margin: 0; float: none;}
+</style>
